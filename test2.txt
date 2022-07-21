@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sasasssa
+=======
+her hangi bir şey eklendi.
+>>>>>>> new-feature-2
